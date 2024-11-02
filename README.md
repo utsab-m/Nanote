@@ -1,0 +1,2 @@
+# Nanote
+Nanote Discord bot
